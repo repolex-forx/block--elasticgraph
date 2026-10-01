@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/elasticgraph/commit/57bc8aec8c12564b3363fd00e6406f467342697e",
       "git:hexsha": "57bc8aec8c12564b3363fd00e6406f467342697e",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T09:34:58.709349+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/elasticgraph/commit/79e4a6507087a4d2d44e6c0d55d2f55896633aa6",
