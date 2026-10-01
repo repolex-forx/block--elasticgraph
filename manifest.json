@@ -512,6 +512,180 @@
       ],
       "ast": [
         "aggregate/ast/57bc8aec8c12564b3363fd00e6406f467342697e/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/57bc8aec8c12564b3363fd00e6406f467342697e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "graphql-c_parser",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.1",
+          "githubOrg": "rmosolgo",
+          "githubRepo": "graphql-ruby",
+          "githubUrl": "https://github.com/rmosolgo/graphql-ruby",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "coderay",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.1",
+          "githubOrg": "rubychan",
+          "githubRepo": "coderay",
+          "githubUrl": "http://github.com/rubychan/coderay",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "faker",
+          "ecosystem": "RUBYGEMS",
+          "version": "3.8",
+          "githubOrg": "faker-ruby",
+          "githubRepo": "faker",
+          "githubUrl": "https://github.com/faker-ruby/faker",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "nokogiri",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.19",
+          "githubOrg": "sparklemotion",
+          "githubRepo": "nokogiri",
+          "githubUrl": "https://github.com/sparklemotion/nokogiri",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rack-test",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.2",
+          "githubOrg": "rack",
+          "githubRepo": "rack-test",
+          "githubUrl": "https://github.com/rack/rack-test",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rspec",
+          "ecosystem": "RUBYGEMS",
+          "version": "3.13",
+          "githubOrg": "rspec",
+          "githubRepo": "rspec",
+          "githubUrl": "https://github.com/rspec/rspec/tree/rspec-v3.13.2/rspec",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rspec-retry",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6",
+          "githubOrg": "noredink",
+          "githubRepo": "rspec-retry",
+          "githubUrl": "https://github.com/noredink/rspec-retry",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "rubocop-rake",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6.0",
+          "githubOrg": "rubocop",
+          "githubRepo": "rubocop-rake",
+          "githubCommit": "5a1d4abac2b4810c5afe7d81134be035371ad1b8",
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/rubocop/rubocop-rake",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "simplecov",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.1",
+          "githubOrg": "simplecov-ruby",
+          "githubRepo": "simplecov",
+          "githubUrl": "https://github.com/simplecov-ruby/simplecov/tree/v1.3.2",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "standard",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.56.0",
+          "githubOrg": "standardrb",
+          "githubRepo": "standard",
+          "githubCommit": "d695ba04230f15c0928e4c0c5ac36bf120fc81ab",
+          "githubTag": "v1.56.0",
+          "githubUrl": "https://github.com/standardrb/standard",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "steep",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.1.0",
+          "githubOrg": "soutaro",
+          "githubRepo": "steep",
+          "githubCommit": "3b75b367c9ad3d07f8f053c0c1f28e4bab560f5d",
+          "githubTag": "v2.1.0",
+          "githubUrl": "https://github.com/soutaro/steep",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "super_diff",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.19",
+          "githubOrg": "splitwise",
+          "githubRepo": "super_diff",
+          "githubUrl": "https://github.com/splitwise/super_diff",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "jekyll",
+          "ecosystem": "RUBYGEMS",
+          "version": "4.4",
+          "githubOrg": "jekyll",
+          "githubRepo": "jekyll",
+          "githubUrl": "https://github.com/jekyll/jekyll",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "yard",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.9",
+          "githubOrg": "lsegal",
+          "githubRepo": "yard",
+          "githubUrl": "https://github.com/lsegal/yard",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "yard-markdown",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.9",
+          "githubOrg": "skatkov",
+          "githubRepo": "yard-markdown",
+          "githubUrl": "https://github.com/skatkov/yard-markdown",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "irb",
+          "ecosystem": "RUBYGEMS",
+          "githubOrg": "ruby",
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
+        },
+        {
+          "packageName": "rouge",
+          "ecosystem": "RUBYGEMS",
+          "version": "5.1.0",
+          "githubOrg": "rouge-ruby",
+          "githubRepo": "rouge",
+          "githubCommit": "afc3c52c2af0fde176029eeb15f5848cb38a69c3",
+          "githubTag": "v5.1.0",
+          "githubUrl": "https://github.com/rouge-ruby/rouge",
+          "source": "build_file:Gemfile"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.9.5",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "9904684d353f8d806755918533487b78138f7c08",
+          "githubTag": "0.9.5",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/httpx/_client.py"
+        }
       ]
     }
   ],
